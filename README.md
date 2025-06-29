@@ -40,10 +40,11 @@ A full-stack web application built for the **Katomaran Full Stack Hackathon**. I
 ## Folder Structure
 
 katomaran-todo-task-manager/
-├── backend/ # Express API + MongoDB
-├── frontend/ # React + Vite UI
-├── architecture-diagram.png
-├── README.md # You're here
+├── backend/                  # Express API + MongoDB
+├── frontend/                 # React + Vite UI
+├── architecture-diagram.png # System design image
+├── README.md                 # You're here
+
 
 ---
 This project is a part of a hackathon run by https://www.katomaran.com
