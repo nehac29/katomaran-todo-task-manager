@@ -44,13 +44,6 @@ katomaran-todo-task-manager/
 ├── frontend/ # React + Vite UI
 ├── architecture-diagram.png
 ├── README.md # You're here
----
-
-## Architecture Diagram
-
-![Architecture Diagram](architecture-diagram.png)
-
-> Designed using [draw.io](https://draw.io) or [excalidraw.com](https://excalidraw.com)
 
 ---
 This project is a part of a hackathon run by https://www.katomaran.com
